@@ -8,3 +8,4 @@ Java FX learning
 * Communicating between windows
 * Closing the program properly
 * Embedding layouts
+* Grid Pane - Login sample
