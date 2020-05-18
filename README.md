@@ -9,3 +9,9 @@ Java FX learning
 * Closing the program properly
 * Embedding layouts
 * Grid Pane - Login sample
+* CheckBox
+* ChoiceBox
+* Listening for selection changes
+* ComboBox
+* ListView
+* TreeView
